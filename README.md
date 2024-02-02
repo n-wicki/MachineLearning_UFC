@@ -45,4 +45,5 @@ Model ML pisany w Jupyter Lab - Przewidywanie wyniku walk pomiędzy dwoma zawodn
     • Interakcje między cechami mogą poprawić zdolności modelu do przewidywania wyników.
 
 
-Kacper Nowicki, Jakub Wawrzyniak C 02.02.2024
+Kacper Nowicki, Jakub Wawrzyniak 
+02.02.2024
